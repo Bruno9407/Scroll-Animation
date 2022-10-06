@@ -1,3 +1,3 @@
 # Scroll-Animation
 #
-Animação de Scroll com Javascript, baseado no video do <a href="https://www.youtube.com/watch?v=pKTOT63X9XQ">Origamid </a>
+Animação de Scroll com Javascript feito durante o curso da Origamid, animações feitas com css e Javascript puro.
